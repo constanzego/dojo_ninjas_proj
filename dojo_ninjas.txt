@@ -1,0 +1,3 @@
+Dojo.objects.create(name="Temuco dojo", city="Temuco", state="Araucania")
+dojo.objects.create(name="Villarrica dojo", city="Villarrica", state="Araucania")
+dojo.objects.create(name="Pucon dojo", city="Pucon", state="Araucania")
